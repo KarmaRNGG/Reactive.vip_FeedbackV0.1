@@ -1,15 +1,16 @@
 # FeedBack-Reactive.vip
-Free, external. Undetected and tested in comp, (not rage tested in prem only legit) this is version 0.1. I have rewritten a new hitchance not just pasted it so its a bit touchy. Please Please send feedback or bugs back etc
+Free, external. Undetected and tested in comp, (not rage tested in prem only legit) this is version 0.1. I have rewritten a new hit chance not just pasted it so it's a bit touchy. Please Please send feedback or bugs back etc
 
 
 
 Known bugs, 
-Visuals can break at times, I'm still optimizing, they are lightweight cpu visuals. Should run on any pc without gpu/low graphics
-Trigger hit-chance is abit funky, it's self-made and is caculated via valves RNG Seeds pre weapon something i've been experimenting with
-FOV changer, works, but has a little bug on reload. again, focused too much on trigger. Might also cause laggy visuals as I haven't optimized the FOV change. 
-Not much else really. Min damage in aim has just been made so might be abit buggy with picking shots that meet the required hitchance. That i can think of at this time.
-SKINS DO NOT WORK YET, external skins are hard to do, especially when not pasting some old out of dated pasted src. So give me some time :)
-WORLD MONIPULATION, I started and then pivoted back to hit-chance seed trigger logic. This is not yet implemented logic wise its just ready for me to start writing out. 
+- Visuals can break at times, I'm still optimizing, they are lightweight cpu visuals. Should run on any pc without gpu/low graphics
+- Trigger hit-chance is a bit funky, it's self-made and is calculated via valves RNG Seeds pre weapon something I've been experimenting with
+- Third Person isn't fully implemented. just a placeholder as a reminder to me to do it.  
+- FOV changer, works, but has a little bug on reload. again, focused too much on trigger. Might also cause laggy visuals as I haven't optimized the FOV change. 
+- Not much else really. Min damage in aim has just been made so might be abit buggy with picking shots that meet the required hit chance. That i can think of at this time.
+- SKINS DO NOT WORK YET, external skins are hard to do, especially when not pasting some old out of dated pasted src. So, give me some time :)
+- WORLD MONIPULATION, I started and then pivoted back to hit-chance seed trigger logic. This is not yet implemented logic wise it's just ready for me to start writing out. 
 
 Again 0.1
 
