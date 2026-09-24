@@ -5,6 +5,12 @@ I'm studying software engineering and development, this is a side project to hel
 
 So thought I'd share and ask for constructive feedback :) 
 
+Preview!
+<img width="1920" height="1200" alt="menu_1790258096055" src="https://github.com/user-attachments/assets/fb996780-e110-4905-b5f0-091750ecd2f7" />
+<img width="1920" height="1200" alt="menu_1790251074739" src="https://github.com/user-attachments/assets/bc1fbee7-684c-4ccb-a114-89244f49d913" />
+<img width="1920" height="1200" alt="menu_1790258048049" src="https://github.com/user-attachments/assets/846f16d8-e253-4146-8800-69d4f11a0084" />
+
+
 
 Known bugs, 
 - Visuals can break at times, I'm still optimizing, they are lightweight cpu visuals. Should run on any pc without gpu/low graphics
