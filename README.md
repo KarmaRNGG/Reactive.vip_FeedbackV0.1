@@ -92,7 +92,7 @@ Don't have a driver so don't except it to bypass faceit but i haven't tried..
 
 # Current detection status
 
-At the time of writing, I have no confirmed reports of Vesta v1.1.2 causing a permanent red ban from client-side VAC.
+At the time of writing, I have no confirmed reports of Reactive v0.1 causing a permanent red ban from client-side VAC.
 
 For Premier:
 Disable Aimbot and RCS
