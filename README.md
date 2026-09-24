@@ -20,7 +20,6 @@ Again 0.1
 This is being designed as a undetectable (Don't complain if vac flags you but I have tested thoroughly with all styles of game play legit, semi, rage in comp. non-prime and prime. so i can say 98% in comp you are fine to do anything, idk about prem raging though be warned)
 
 Don't have a driver so don't except it to bypass faceit but i haven't tried.. 
-# Reactive.vip (Feedback Edition)
 
 ### Features
 
