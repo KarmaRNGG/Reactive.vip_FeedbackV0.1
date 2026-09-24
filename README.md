@@ -1,6 +1,9 @@
 # FeedBack-Reactive.vip
 Free, external. Undetected and tested in comp, (not rage tested in prem only legit) this is version 0.1. I have rewritten a new hit chance not just pasted it so it's a bit touchy. Please Please send feedback or bugs back etc
 
+I'm studying software engineering and development, this is a side project to help learn more about c++, mechanics, vectors, angles, and RE/Detection vectors and bypasses :) 
+
+So thought I'd share and ask for constructive feedback :) 
 
 
 Known bugs, 
