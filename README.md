@@ -1,6 +1,13 @@
 # FeedBack-Reactive.vip
 Free, external. Undetected and tested in comp, (not rage tested in prem only legit) this is version 0.1. I have rewritten a new hit chance not just pasted it so it's a bit touchy. Please Please send feedback or bugs back etc
 
+# YES, Reactive has a built in sdk dumper and viewer. Perfect to pair with a coding project or just dead and want to look through the internals of cs2.
+Preview
+
+<img width="1920" height="1080" alt="menu_1790265390637" src="https://github.com/user-attachments/assets/a1947952-62d9-4331-8944-66cc6f32e7ab" />
+
+Encourage people to write their own little esp. external or internal.   
+
 I'm studying software engineering and development, this is a side project to help learn more about c++, mechanics, vectors, angles, and RE/Detection vectors and bypasses :) 
 
 So thought I'd share and ask for constructive feedback :) 
