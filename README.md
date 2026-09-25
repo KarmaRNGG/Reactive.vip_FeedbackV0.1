@@ -1,7 +1,7 @@
 # FeedBack-Reactive.vip
 Free, external. Undetected and tested in comp, (not rage tested in prem only legit) this is version 0.1. I have rewritten a new hit chance not just pasted it so it's a bit touchy. Please Please send feedback or bugs back etc
 
-# NOT A SOURCE RELEASE, this is made for feedback to then progress onto a v1 etc. I have also written my own logic and prefer to keep it to myself. Pay2cheats n skids will love free undetected source.
+NOT A SOURCE RELEASE, this is made for feedback to then progress onto a v1 etc. I have also written my own Seed PRed, Hit-Chance and other functions i'd prefer to keep it to myself. Pay2cheats n skids will love free undetected sources.. i don't want this just to be another guys paste :)
 
 # YES, Reactive has a built in sdk dumper and viewer. Perfect to pair with a coding project or just dead and want to look through the internals of cs2.
 Preview
